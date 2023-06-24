@@ -3,6 +3,8 @@
 - [talib 參考網站](https://havocfuture.tw/blog/python-indicators-talib)：這個網站提供了有關使用 talib 庫計算技術指標的相關資訊。
 - [亞力電機的股票參考網站](https://www.wantgoo.com/stock/1514/technical-chart)：您可以在這個網站上查看亞力電機（股票代號 1514）的技術圖表和相關資訊。
 - [DataFrame 的參考網站](https://www.learncodewithmike.com/2020/11/python-pandas-dataframe-tutorial.html)：這個網站提供了有關使用 Pandas 的 DataFrame 進行資料操作和分析的教學資源。
+- [DataFrame w3s的參考網站](https://www.w3schools.com/python/pandas/pandas_dataframes.asp)：這個網站提供了有關使用 Pandas 的 DataFrame 進行資料操作和分析的教學資源。
+
 
 ## 需求
 
